@@ -17,7 +17,6 @@ const questions = [
     message: "Provide description of your project",
   },
 
-
   {
     type: "input",
     name: "installation",
@@ -35,7 +34,7 @@ const questions = [
     name: "license",
     message:
       "Provide any licenses to let people know what they can and cannot do with your project",
-    choices: ["MIT","none","Apache","Mozilla Public"]
+    choices: ["MIT", "none", "Apache", "Mozilla Public"],
   },
 
   {
