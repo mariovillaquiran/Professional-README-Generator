@@ -11,6 +11,7 @@ function renderLicenseLink(license) {}
 function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
+// add for each part of the markdown + questions that corr. from index.js 
 function generateMarkdown(data) {
   return `# ${data.title}
 
